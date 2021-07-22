@@ -101,5 +101,22 @@ input {
 }
 
 .addBtn:hover {
-    background-color: #bbb;
+    background-color: #9c3d54;
+    color:white;
+}
+
+footer{
+    position:absolute;
+    font-size: 1rem;
+    padding:10px;
+    text-align: center;
+    color:gray;
+   bottom:0;
+   width:100%;
+   height:40px;   /* Height of the footer */
+   background:#31326f;
+}
+a{
+    color:#fff; 
+    text-decoration: none;
 }
